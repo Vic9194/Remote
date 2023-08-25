@@ -12,3 +12,9 @@ git remote add <имя для репозиторя> <url - адрес репоз
 ```
 git pull
 ```
+```
+for(int i = 1; i < 10; i++)
+{
+    console.WriteLine(1*1)
+}
+```
